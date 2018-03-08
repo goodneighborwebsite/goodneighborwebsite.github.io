@@ -4,61 +4,24 @@
   <title>Good Neighbor Ministry</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-    /* Remove the navbar's default margin-bottom and rounded borders */
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-      background-color: #005500;
-    }
-
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px}
-
-    /* Set gray background color and 100% height */
-    .sidenav {
-      padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
-    }
-
-    /* Set black background color, white text and some padding */
-    footer {
-      /* background-color: #555; */
-      color: black;
-      padding: 20px;
-      position: fixed;
-      bottom: 0px;
-      left: 0px;
-      right: 0px;
-      margin-bottom: 0px;
-    }
-    .myTitle{
-      background-color: #004400;
-      padding: 20px;
-      font-size: 38px;
-      color: white;
-    }
-
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 15px;
-      }
-      .row.content {height:auto;}
-    }
-  </style>
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 
-
+<!-- Heading -->
 <div class=myTitle>
-  <div class="container-fluid"><strong>Good Neighbor Ministry</strong></div>
+  <div class="container-fluid">
+    <div class="col-sm-1">
+      <div class="imgwrapper">
+        <img src="logos/GNM-header-smaller.png" class="img-responsive" alt="*null">
+      </div>
+    </div>
+    <div class="col-sm-11"><strong>선한이웃 선교회</strong><br><strong>Good Neighbor Ministry</strong></div>
+  </div>
 </div>
 
 <nav class="navbar navbar-inverse">
@@ -73,8 +36,23 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="About.html">About</a></li>
-        <li><a href="Ensemble.html">Ensemble</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About <span class="caret"></span> </a>
+          <ul class="dropdown-menu">
+            <li><a href="About.html">About Us</a></li>
+            <li><a href="MissionStatement.html">Mission Statement</a></li>
+            <li><a href="NursingHomeMinistry.html">Nursing Home Ministry</a></li>
+            <li><a href="Sponsors.html">Sponsors</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="Ensemble.html">Ensemble<span class="caret"></span> </a>
+          <ul class="dropdown-menu">
+            <li><a href="Ensemble.html">History</a></li>
+            <li><a href="Audition.html">Audition</a></li>
+            <li><a href="Watch.html">Watch</a></li>
+          </ul>
+        </li>
         <li><a href="Calendar.html">Calendar</a></li>
         <li><a href="Gallery.html">Gallery</a></li>
         <li><a href="Newsletter.html">Newsletter</a></li>
@@ -86,13 +64,18 @@
   </div>
 </nav>
 
+<!-- main body -->
 <div class="container-fluid text-center">
   <div class="row content">
+
+    <!-- sidenav -->
     <div class="col-sm-2 sidenav">
       <p><a href="#">Link</a></p>
       <p><a href="#">Link</a></p>
       <p><a href="#">Link</a></p>
     </div>
+
+    <!-- body -->
     <div class="col-sm-9 text-left">
       <h1>Welcome</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -100,6 +83,7 @@
       <hr>
       <!-- Slideshow -->
       <div class="col-sm-7" align="center">
+      <div class=myCarouselClass>
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -133,7 +117,8 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-    <!-- slideshow -->
+    <!-- slideshow end-->
+    </div>
     </div>
     </div>
     <div class="col-sm-1 text-right"></div>
@@ -141,43 +126,49 @@
   </div>
 </div>
 
-<div class="container-fluid">
-  <hr>
-  <div class="col-sm-12">
-    <div class="col-sm-4">
-      <p align="center"><strong>Social Media</strong></p>
+<div class="myFooter">
+  <div class="container-fluid">
+    <hr>
+    <div class="col-sm-12">
+      <div class="col-sm-4">
+        <p align="center"><strong>Social Media</strong></p>
 
-        <p align="center">
-          <a href="https://www.facebook.com/GoodNeighborMinistry/">
-            <img src="logos/fb-icon.png" style="width:10%; height:10%" alt="photo not found">
-          </a>
-          <a href="https://www.youtube.com/channel/UCr9rYSVn9wecU5wnHFo5fhg">
-            <img src="logos/youtube-icon.png"  style="width:10%; height:10%" alt="photo not found">
-          </a>
+          <p align="center">
+            <a href="https://www.facebook.com/GoodNeighborMinistry/">
+              <img src="logos/fb-icon.png" style="width:10%; height:10%" alt="photo not found">
+            </a>
+            <a href="https://www.youtube.com/channel/UCr9rYSVn9wecU5wnHFo5fhg">
+              <img src="logos/youtube-icon.png"  style="width:10%; height:10%" alt="photo not found">
+            </a>
+          </p>
+          <br>
+      </div>
+
+      <div class="col-sm-4">
+        <center>
+          <p></p><br>
+          <img src="logos/GNM-footer-icon.png" style="width: 50%; height: 50%" alt="img not found"><br>
+          a Non-Profit Corporation, a 501(C)(3), Founded in 1999
+        </center>
+        <br>
+      </div>
+
+      <div class="col-sm-4">
+
+        <p align="center"><strong>Contact</strong> <br>
+        Good Neighbor Ministry <br>
+        P.O. Box 110 <br>
+        Closter, NJ 07624 <br>
+        Tel. 201-759-5688 <br>
+        goodneighborministry.nj@gmail.com <br>
         </p>
+        <br>
+      </div>
+
+      <center><p><strong>Copyright © 2018 by Good Neighbor Ministry | All Rights Reserved</strong></p></center>
     </div>
-
-    <div class="col-sm-4">
-      <center>
-        <p></p><br>
-        <img src="logos/GNM-footer-icon.png" style="width: 50%; height: 50%" alt="img not found"><br>
-        a Non-Profit Corporation, a 501(C)(3), Founded in 1999
-      </center>
-    </div>
-
-    <div class="col-sm-4">
-
-      <p align="center"><strong>Contact</strong> <br>
-      Good Neighbor Ministry <br>
-      P.O. Box 110 <br>
-      Closter, NJ 07624 <br>
-      Tel. 201-759-5688 <br>
-      goodneighborministry.nj@gmail.com <br>
-      </p>
-    </div>
-
-    <center><p><strong>Copyright © 2018 by Good Neighbor Ministry | All Rights Reserved</strong></p></center>
   </div>
+
 </div>
 
 </body>
