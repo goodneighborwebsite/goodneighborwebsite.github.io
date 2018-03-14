@@ -4,6 +4,8 @@
 
 	cropToFit="true"
 	imageQuality="99"
+	useThumbDots="true"
+	useFullscreenExpand="true"
 
 >
   <image imageURL="images/1.jpg"
