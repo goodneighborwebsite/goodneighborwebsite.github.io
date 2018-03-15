@@ -6,9 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map"></script>
+  <script type="text/javascript">https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js</script>
+  <script type="text/javascript">https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js.map</script>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="photostyle.css">
+  <!--<link rel="stylesheet" href="photostyle.css">-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
 </head>
 <body>
 
@@ -71,19 +76,43 @@
     <div class="col-sm-2"></div>
     <div class="col-sm-8 text-left">
       <h1><strong>Gallery</strong></h1>
-      <!--START JUICEBOX EMBED-->
-      <script src="photos/newyears/jbcore/juicebox.js"></script>
-      <script>
-      new juicebox({
-      containerId: "juicebox-container",
-      galleryWidth: "100%",
-      galleryHeight: "100%",
-      backgroundColor: "rgba(34,34,34,1)"
-      });
-      </script>
-      <div id="juicebox-container"></div>
-      <!--END JUICEBOX EMBED-->
-
+      <!--
+        <img src="photos/chuseok17/images/1.jpg" alt="">
+        <img src="photos/chuseok17/images/2.jpg" alt="">
+        <img src="photos/chuseok17/images/3.jpg" alt="">
+        <img src="photos/chuseok17/images/4.jpg" alt="">
+        <img src="photos/chuseok17/images/5.jpg" alt="">
+        <img src="photos/chuseok17/images/6.jpg" alt="">
+        <img src="photos/chuseok17/images/7.jpg" alt="">
+        <img src="photos/chuseok17/images/8.jpg" alt="">
+        <img src="photos/chuseok17/images/9.jpg" alt="">
+      -->
+      <div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="row">
+            <a href="https://unsplash.it/1200/768.jpg?image=251" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=251" class="img-fluid">
+            </a>
+            <a href="https://unsplash.it/1200/768.jpg?image=252" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=252" class="img-fluid">
+            </a>
+            <a href="https://unsplash.it/1200/768.jpg?image=253" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=253" class="img-fluid">
+            </a>
+        </div>
+        <div class="row">
+            <a href="https://unsplash.it/1200/768.jpg?image=254" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=254" class="img-fluid">
+            </a>
+            <a href="https://unsplash.it/1200/768.jpg?image=255" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=255" class="img-fluid">
+            </a>
+            <a href="https://unsplash.it/1200/768.jpg?image=256" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+                <img src="https://unsplash.it/600.jpg?image=256" class="img-fluid">
+            </a>
+        </div>
+    </div>
+</div>
     </div>
     <div class="col-sm-2"></div>
   </div>
@@ -134,6 +163,11 @@
   </div>
 
 </div>
-
+<script>
+$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+              event.preventDefault();
+              $(this).ekkoLightbox();
+          });
+</script>
 </body>
 </html>
