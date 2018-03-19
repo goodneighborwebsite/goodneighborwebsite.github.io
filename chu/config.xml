@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
+<juiceboxgallery
 
 	imageQuality="99"
 	galleryTitle="Chuseok2017"
+	maxImageWidth="1280"
+	maxImageHeight="1024"
 
 >
   <image imageURL="images/1.jpg"

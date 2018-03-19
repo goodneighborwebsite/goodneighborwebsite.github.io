@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1280"
+	maxImageHeight="1024"
+	imageQuality="99"
+
+>
+  <image imageURL="images/0001.jpg"
+	thumbURL="thumbs/0001.jpg"
+	linkURL="images/0001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0001.jpg">
+    <title><![CDATA[0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0002.jpg"
+	thumbURL="thumbs/0002.jpg"
+	linkURL="images/0002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0002.jpg">
+    <title><![CDATA[0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0003.jpg"
+	thumbURL="thumbs/0003.jpg"
+	linkURL="images/0003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0003.jpg">
+    <title><![CDATA[0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0004.jpg"
+	thumbURL="thumbs/0004.jpg"
+	linkURL="images/0004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0004.jpg">
+    <title><![CDATA[0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0005.jpg"
+	thumbURL="thumbs/0005.jpg"
+	linkURL="images/0005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0005.jpg">
+    <title><![CDATA[0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0006.jpg"
+	thumbURL="thumbs/0006.jpg"
+	linkURL="images/0006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0006.jpg">
+    <title><![CDATA[0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0007.jpg"
+	thumbURL="thumbs/0007.jpg"
+	linkURL="images/0007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0007.jpg">
+    <title><![CDATA[0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0008.jpg"
+	thumbURL="thumbs/0008.jpg"
+	linkURL="images/0008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0008.jpg">
+    <title><![CDATA[0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0009.jpg"
+	thumbURL="thumbs/0009.jpg"
+	linkURL="images/0009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0009.jpg">
+    <title><![CDATA[0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0010.jpg"
+	thumbURL="thumbs/0010.jpg"
+	linkURL="images/0010.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0010.jpg">
+    <title><![CDATA[0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0011.jpg"
+	thumbURL="thumbs/0011.jpg"
+	linkURL="images/0011.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0011.jpg">
+    <title><![CDATA[0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0012.jpg"
+	thumbURL="thumbs/0012.jpg"
+	linkURL="images/0012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0012.jpg">
+    <title><![CDATA[0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0013.jpg"
+	thumbURL="thumbs/0013.jpg"
+	linkURL="images/0013.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0013.jpg">
+    <title><![CDATA[0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0014.jpg"
+	thumbURL="thumbs/0014.jpg"
+	linkURL="images/0014.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0014.jpg">
+    <title><![CDATA[0014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0015.jpg"
+	thumbURL="thumbs/0015.jpg"
+	linkURL="images/0015.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0015.jpg">
+    <title><![CDATA[0015]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0016.jpg"
+	thumbURL="thumbs/0016.jpg"
+	linkURL="images/0016.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0016.jpg">
+    <title><![CDATA[0016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0017.jpg"
+	thumbURL="thumbs/0017.jpg"
+	linkURL="images/0017.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0017.jpg">
+    <title><![CDATA[0017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0018.jpg"
+	thumbURL="thumbs/0018.jpg"
+	linkURL="images/0018.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0018.jpg">
+    <title><![CDATA[0018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0019.jpg"
+	thumbURL="thumbs/0019.jpg"
+	linkURL="images/0019.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0019.jpg">
+    <title><![CDATA[0019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0020.jpg"
+	thumbURL="thumbs/0020.jpg"
+	linkURL="images/0020.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0020.jpg">
+    <title><![CDATA[0020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0021.jpg"
+	thumbURL="thumbs/0021.jpg"
+	linkURL="images/0021.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0021.jpg">
+    <title><![CDATA[0021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0022.jpg"
+	thumbURL="thumbs/0022.jpg"
+	linkURL="images/0022.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0022.jpg">
+    <title><![CDATA[0022]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0023.jpg"
+	thumbURL="thumbs/0023.jpg"
+	linkURL="images/0023.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0023.jpg">
+    <title><![CDATA[0023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0024.jpg"
+	thumbURL="thumbs/0024.jpg"
+	linkURL="images/0024.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0024.jpg">
+    <title><![CDATA[0024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0025.jpg"
+	thumbURL="thumbs/0025.jpg"
+	linkURL="images/0025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0025.jpg">
+    <title><![CDATA[0025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0026.jpg"
+	thumbURL="thumbs/0026.jpg"
+	linkURL="images/0026.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0026.jpg">
+    <title><![CDATA[0026]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0027.jpg"
+	thumbURL="thumbs/0027.jpg"
+	linkURL="images/0027.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0027.jpg">
+    <title><![CDATA[0027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0028.jpg"
+	thumbURL="thumbs/0028.jpg"
+	linkURL="images/0028.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0028.jpg">
+    <title><![CDATA[0028]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0029.jpg"
+	thumbURL="thumbs/0029.jpg"
+	linkURL="images/0029.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0029.jpg">
+    <title><![CDATA[0029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0030.jpg"
+	thumbURL="thumbs/0030.jpg"
+	linkURL="images/0030.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0030.jpg">
+    <title><![CDATA[0030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0031.jpg"
+	thumbURL="thumbs/0031.jpg"
+	linkURL="images/0031.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0031.jpg">
+    <title><![CDATA[0031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0032.jpg"
+	thumbURL="thumbs/0032.jpg"
+	linkURL="images/0032.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0032.jpg">
+    <title><![CDATA[0032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0033.jpg"
+	thumbURL="thumbs/0033.jpg"
+	linkURL="images/0033.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0033.jpg">
+    <title><![CDATA[0033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0034.jpg"
+	thumbURL="thumbs/0034.jpg"
+	linkURL="images/0034.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0034.jpg">
+    <title><![CDATA[0034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0035.jpg"
+	thumbURL="thumbs/0035.jpg"
+	linkURL="images/0035.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0035.jpg">
+    <title><![CDATA[0035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0036.jpg"
+	thumbURL="thumbs/0036.jpg"
+	linkURL="images/0036.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0036.jpg">
+    <title><![CDATA[0036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0037.jpg"
+	thumbURL="thumbs/0037.jpg"
+	linkURL="images/0037.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0037.jpg">
+    <title><![CDATA[0037]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0038.jpg"
+	thumbURL="thumbs/0038.jpg"
+	linkURL="images/0038.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0038.jpg">
+    <title><![CDATA[0038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0039.jpg"
+	thumbURL="thumbs/0039.jpg"
+	linkURL="images/0039.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0039.jpg">
+    <title><![CDATA[0039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0040.jpg"
+	thumbURL="thumbs/0040.jpg"
+	linkURL="images/0040.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0040.jpg">
+    <title><![CDATA[0040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0041.jpg"
+	thumbURL="thumbs/0041.jpg"
+	linkURL="images/0041.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0041.jpg">
+    <title><![CDATA[0041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0042.jpg"
+	thumbURL="thumbs/0042.jpg"
+	linkURL="images/0042.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0042.jpg">
+    <title><![CDATA[0042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0043.jpg"
+	thumbURL="thumbs/0043.jpg"
+	linkURL="images/0043.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0043.jpg">
+    <title><![CDATA[0043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0044.jpg"
+	thumbURL="thumbs/0044.jpg"
+	linkURL="images/0044.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0044.jpg">
+    <title><![CDATA[0044]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0045.jpg"
+	thumbURL="thumbs/0045.jpg"
+	linkURL="images/0045.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0045.jpg">
+    <title><![CDATA[0045]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0046.jpg"
+	thumbURL="thumbs/0046.jpg"
+	linkURL="images/0046.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0046.jpg">
+    <title><![CDATA[0046]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0047.jpg"
+	thumbURL="thumbs/0047.jpg"
+	linkURL="images/0047.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0047.jpg">
+    <title><![CDATA[0047]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0048.jpg"
+	thumbURL="thumbs/0048.jpg"
+	linkURL="images/0048.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0048.jpg">
+    <title><![CDATA[0048]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0049.jpg"
+	thumbURL="thumbs/0049.jpg"
+	linkURL="images/0049.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\benefit2016\0049.jpg">
+    <title><![CDATA[0049]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -2,7 +2,10 @@
 
 <juiceboxgallery 
 
-	cropToFit="false"
+	imageQuality="99"
+	galleryTitle="Chuseok2017"
+	maxImageWidth="1280"
+	maxImageHeight="1024"
 
 >
   <image imageURL="images/1.jpg"
@@ -11,7 +14,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\1.jpg">
     <title><![CDATA[1]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/2.jpg"
 	thumbURL="thumbs/2.jpg"
@@ -19,7 +22,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\2.jpg">
     <title><![CDATA[2]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/3.jpg"
 	thumbURL="thumbs/3.jpg"
@@ -27,7 +30,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\3.jpg">
     <title><![CDATA[3]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/4.jpg"
 	thumbURL="thumbs/4.jpg"
@@ -35,7 +38,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\4.jpg">
     <title><![CDATA[4]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/5.jpg"
 	thumbURL="thumbs/5.jpg"
@@ -43,7 +46,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\5.jpg">
     <title><![CDATA[5]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/6.jpg"
 	thumbURL="thumbs/6.jpg"
@@ -51,7 +54,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\6.jpg">
     <title><![CDATA[6]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/7.jpg"
 	thumbURL="thumbs/7.jpg"
@@ -59,7 +62,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\7.jpg">
     <title><![CDATA[7]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/8.jpg"
 	thumbURL="thumbs/8.jpg"
@@ -67,7 +70,7 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\8.jpg">
     <title><![CDATA[8]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
   <image imageURL="images/9.jpg"
 	thumbURL="thumbs/9.jpg"
@@ -75,6 +78,6 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\chuseok2017\9.jpg">
     <title><![CDATA[9]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[chuseok 2017]]></caption>
   </image>
 </juiceboxgallery>
