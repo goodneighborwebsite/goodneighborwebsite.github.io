@@ -1,0 +1,51 @@
+<!-- Heading -->
+<div class=myTitle>
+  <div class="container-fluid">
+    <div class="col-sm-1">
+      <div class="imgwrapper">
+        <img src="logos/GNM-header-smaller.png" class="img-responsive" alt="*null">
+      </div>
+    </div>
+    <div class="col-sm-11"><strong>선한이웃 선교회</strong><br><strong>Good Neighbor Ministry</strong></div>
+  </div>
+</div>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="About.html">About <span class="caret"></span> </a>
+          <ul class="dropdown-menu">
+            <li><a href="About.html">About Us</a></li>
+            <li><a href="MissionStatement.html">Mission Statement</a></li>
+            <li><a href="NursingHomeMinistry.html">Nursing Home Ministry</a></li>
+            <li><a href="Sponsors.html">Sponsors</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="Ensemble.html">Ensemble<span class="caret"></span> </a>
+          <ul class="dropdown-menu">
+            <li><a href="Ensemble.html">History</a></li>
+            <li><a href="Audition.html">Audition</a></li>
+            <li><a href="Watch.html">Watch</a></li>
+          </ul>
+        </li>
+        <li><a href="Calendar.html">Calendar</a></li>
+        <li><a href="Gallery.html">Gallery</a></li>
+        <li><a href="Newsletter.html">Newsletter</a></li>
+        <li><a href="Scholarship.html">Scholarship</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
