@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1280"
+	maxImageHeight="800"
+	imageQuality="99"
+
+>
+  <image imageURL="images/0001.jpg"
+	thumbURL="thumbs/0001.jpg"
+	linkURL="images/0001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0001.jpg">
+    <title><![CDATA[0001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0002.jpg"
+	thumbURL="thumbs/0002.jpg"
+	linkURL="images/0002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0002.jpg">
+    <title><![CDATA[0002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0003.jpg"
+	thumbURL="thumbs/0003.jpg"
+	linkURL="images/0003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0003.jpg">
+    <title><![CDATA[0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0004.jpg"
+	thumbURL="thumbs/0004.jpg"
+	linkURL="images/0004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0004.jpg">
+    <title><![CDATA[0004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0005.jpg"
+	thumbURL="thumbs/0005.jpg"
+	linkURL="images/0005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0005.jpg">
+    <title><![CDATA[0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0006.jpg"
+	thumbURL="thumbs/0006.jpg"
+	linkURL="images/0006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0006.jpg">
+    <title><![CDATA[0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0007.jpg"
+	thumbURL="thumbs/0007.jpg"
+	linkURL="images/0007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0007.jpg">
+    <title><![CDATA[0007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0008.jpg"
+	thumbURL="thumbs/0008.jpg"
+	linkURL="images/0008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0008.jpg">
+    <title><![CDATA[0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0009.jpg"
+	thumbURL="thumbs/0009.jpg"
+	linkURL="images/0009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0009.jpg">
+    <title><![CDATA[0009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0010.jpg"
+	thumbURL="thumbs/0010.jpg"
+	linkURL="images/0010.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0010.jpg">
+    <title><![CDATA[0010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0011.jpg"
+	thumbURL="thumbs/0011.jpg"
+	linkURL="images/0011.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0011.jpg">
+    <title><![CDATA[0011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0012.jpg"
+	thumbURL="thumbs/0012.jpg"
+	linkURL="images/0012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0012.jpg">
+    <title><![CDATA[0012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0013.jpg"
+	thumbURL="thumbs/0013.jpg"
+	linkURL="images/0013.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\micha\Documents\GNE-website-build\photos\christmas2016\0013.jpg">
+    <title><![CDATA[0013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

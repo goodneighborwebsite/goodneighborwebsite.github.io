@@ -6,8 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map"></script>
+  <script type="text/javascript">https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js</script>
+  <script type="text/javascript">https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js.map</script>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
   <link rel="stylesheet" href="style.css">
+  <!--<link rel="stylesheet" href="photostyle.css">-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
 </head>
 <body>
 
@@ -45,7 +51,7 @@
             <li><a href="Sponsors.html">Sponsors</a></li>
           </ul>
         </li>
-        <li class="active" class="dropdown">
+        <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="Ensemble.html">Ensemble<span class="caret"></span> </a>
           <ul class="dropdown-menu">
             <li><a href="Ensemble.html">History</a></li>
@@ -54,7 +60,7 @@
           </ul>
         </li>
         <li><a href="Calendar.html">Calendar</a></li>
-        <li><a href="Gallery.html">Gallery</a></li>
+        <li class="active"><a href="Gallery.html">Gallery</a></li>
         <li><a href="Newsletter.html">Newsletter</a></li>
         <li><a href="Scholarship.html">Scholarship</a></li>
         <li><a href="Contact.html">Contact</a></li>
@@ -67,42 +73,32 @@
 <!-- main body -->
 <div class="container-fluid text-center">
   <div class="row content">
-
-    <!-- sidenav -->
     <div class="col-sm-2"></div>
-
-    <!-- body -->
     <div class="col-sm-8 text-left">
-      <h1><strong>Audition Information</strong></h1></h1>
-      <p>Below lists all the information needed to audition for the Good Neighbor Ensemble. The application form is available for download below as well.</p>
-      <p><h4><strong>Audition Requirements</strong></h4>
-        <ul>
-          <li>Instruments: Violin, Viola, Cello, Double Bass, Flute</li>
-          <li>Experience: 4 years of playing experience</li>
-          <li>Age: Student must be in grade 8 or higher as of March <script>document.write(new Date().getFullYear())</script></li>
-          <li>Solo piece that demonstrates current skill level </li>
-          <li>Scales</li>
-          <li>Sight reading</li>
-        </ul>
-      </p>
-      <p><h4><strong>Date:</strong> Tuesday, April 23rd and 30th, after 6pm (please make an appointment)</h4></p>
-      <p><h4><strong>Location:</strong> Arcola Korean United Methodist Church (52 Paramus Rd, Paramus, NJ 07652)</h4></p>
-      <p><h4><strong>Inquiry:</strong> Soo-jin Lee | Phone: 201-658-4537 | sjlee0124@gmail.com</h4></p>
-      <br>
-      <p>Please complete the application form and send it to the address below, or by e-mail.</p>
-      <a href="https://drive.google.com/file/d/1IhmYnkNyg4O8qLR7p3d6fS4_xJoE3l5K/view?usp=sharing"><img src="logos/wordDocxIcon.png" alt="applicationform"></a>
-      <br>
-      <p><h4><strong>Address:</strong></h4>Soojin Lee <br>370 Deerfield St. <br>Ridgewood, NJ 07450</p>
-      <p><h4><strong>Email:</strong></h4>sjlee0124@gmail.com</p>
-
-      <hr>
-
+      <h1><strong>Christmas 2016</strong> <input type="button" class="btn btn-outline-secondary" value="Return to Gallery" onclick="location.href = 'Gallery.html' "></h1>
+      <div class="row justify-content-center">
+    <div class="col-md-8" style="text-align:center">
+      <!--START JUICEBOX EMBED-->
+      <script src="photos/christmas2016/jbcore/juicebox.js"></script>
+      <script>
+      new juicebox({
+        baseUrl: "photos/christmas2016/",
+        containerId: "juicebox-container",
+        galleryWidth: "150%",
+        galleryHeight: "90%",
+        backgroundColor: "rgba(34,34,34,1)"
+      });
+      </script>
+      <div id="juicebox-container"></div>
+      <!--END JUICEBOX EMBED-->
+    </div>
+</div>
     </div>
     <div class="col-sm-2"></div>
-
   </div>
 </div>
 
+<!-- footer -->
 <div class="myFooter">
   <div class="container-fluid">
     <hr>
@@ -147,6 +143,11 @@
   </div>
 
 </div>
-
+<script>
+$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+              event.preventDefault();
+              $(this).ekkoLightbox();
+          });
+</script>
 </body>
 </html>
